@@ -17,7 +17,7 @@ namespace VivesTrain.Controllers
         {
             _logger = logger;
         }
-
+        //hello
         public IActionResult Index()
         {
             return View();
